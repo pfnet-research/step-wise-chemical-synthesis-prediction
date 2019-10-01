@@ -1,7 +1,4 @@
-# i19_liuyang
-Intern 2019 repo: i19_liuyang
-
-Theme: A GGNN-GWM based step-wise framework for Chemical Synthesis Prediction
+# A GGNN-GWM based step-wise framework for Chemical Synthesis Prediction
 
 ## Proposal
 
